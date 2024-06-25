@@ -1,15 +1,16 @@
 # freeCodeCamp Forum Leaderboard
 
-[![freeCodeCamp Forum Leaderboard](https://img.shields.io/badge/freeCodeCamp_Forum_Leaderboard-purple)](link_here)
+[![freeCodeCamp Forum Leaderboard](https://img.shields.io/badge/freeCodeCamp_Forum_Leaderboard-purple)](https://fcc-forum-leadearboard.vercel.app)
 ![Project Type](https://img.shields.io/badge/Project_Type:-Course_Project-orange)
 ![HTML,CSS](https://img.shields.io/badge/HTML-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-purple)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp:_JavaScript_Algorithms_and_Data_Structures_(Beta)-red)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
 
 ![freeCodeCamp Forum Leaderboard Edited Image](./assets/fcc_forum_leaderboard_edited.png)
+
 ![freeCodeCamp Forum Leaderboard Website Screenshot](./assets/fcc_forum_leaderboard_website.png)
 
-A course project, where I made a freeCodeCamp Forum Leaderboard with HTML, CSS, and JavaScript. Feel free to check the <a href="link_here" target="_blank">website</a> out, and give feedback on what I can improve if you like.
+A course project, where I made a freeCodeCamp Forum Leaderboard with HTML, CSS, and JavaScript. Feel free to check the <a href="https://fcc-forum-leadearboard.vercel.app" target="_blank">website</a> out, and give feedback on what I can improve if you like.
 
 ## Technologies:
 1. HTML
