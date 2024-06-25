@@ -10,7 +10,7 @@
 
 ![freeCodeCamp Forum Leaderboard Website Screenshot](./assets/fcc_forum_leaderboard_website.png)
 
-A course project, where I made a freeCodeCamp Forum Leaderboard with HTML, CSS, and JavaScript. Feel free to check the <a href="https://fcc-forum-leadearboard.vercel.app" target="_blank">website</a> out, and give feedback on what I can improve if you like.
+A course project, where I made a freeCodeCamp Forum Leaderboard with JavaScript (HTML and CSS was already provided). Feel free to check the <a href="https://fcc-forum-leadearboard.vercel.app" target="_blank">website</a> out, and give feedback on what I can improve if you like.
 
 ## Technologies:
 1. HTML
